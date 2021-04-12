@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="click">Torch</string>
+    <string name="onTrue">On</string>
+    <string name="onFalse">Off</string>
+    <string name="tooltip">Press to turn on flashlight</string>
+</resources>
